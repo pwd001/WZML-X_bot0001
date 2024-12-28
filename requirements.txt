@@ -33,7 +33,7 @@ pymongo
 pyrofork==2.2.11
 python-dotenv
 python-magic
-Pytz
+pytz
 qbittorrent-api
 requests
 speedtest-cli
